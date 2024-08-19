@@ -226,4 +226,4 @@ cl_ulong4 Dispatcher::Device::createSeed()
 
 ## 联系
 
-- 电报: 
+- 电报交流群组：<a href="https://t.me/+aAKaGd4CZDs4Y2U1">@点击加入</a>
