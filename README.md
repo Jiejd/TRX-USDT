@@ -1,7 +1,7 @@
 # Tron Profanity
 
 波场（TRON）靓号生成器，利用 `gpu` 进行加速。代码开源，安全可靠 🔥
-
+交流群组：<a href="https://t.me/+aAKaGd4CZDs4Y2U1">@点击加入</a>
 <img width="100%" src="https://github.com/GG4mida/profanity-tron/blob/main/screenshot/demo.png?raw=true"/>
 
 > Fbi Warning 1: 该程序仅用于学习交流，请勿用于非法用途。
